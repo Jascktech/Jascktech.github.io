@@ -1,0 +1,16 @@
+body {padding: 0; margin: 0;}
+.row {justify-content: center; text-align: center;}
+header {background: rgb(67, 55, 101); margin:0px; padding: 10px; border-bottom: solid 3px black;}
+header img {max-width: 275px; margin: 10px;}
+div.portrait img {margin-left: 0px 75px; border: 10px groove rgb(71, 46, 46); box-shadow: 5px 5px 10px rgb(28, 25, 25);}
+div.excerpt {margin: auto; float: right; text-align: center; color: rgb(67, 55, 101); background-color: bisque; height: max-content; border-radius: 120px; border: 10px groove rgb(71, 46, 46);box-shadow: 5px 5px 10px rgb(28, 25, 25);}
+div.excerpt h1 {font-size: 24px; font-weight: bold; margin: 10px;}
+div.excerpt p {font-size: 16px; padding: 0px 75px;}
+div.row div.box {background-color: rgb(95, 64, 64); margin:10px auto; padding: 10px; text-align: center; border: 5px solid orange; border-radius: 15px; box-shadow: 5px 5px 3px black; color: orange;}
+div.box img {width: 100px;}
+div.box p {padding: 10px; }
+.area {background-color: rgb(132, 213, 250);}
+.area h1 {text-align: center; color: rgb(58, 50, 37);}
+.quote {background-color: azure; margin: 10px auto; padding: 10px; border-radius: 120px; border: solid 5px rgb(58, 50, 37); color: rgb(58, 50, 37); height: max-content; box-shadow: 5px 5px;}
+.quote p { margin:15px; text-align: center; padding: 5px;}
+footer {background: rgb(67, 55, 101);}

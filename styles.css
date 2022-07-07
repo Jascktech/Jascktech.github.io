@@ -1,0 +1,14 @@
+body {padding: 0; margin: 0;}
+.row {justify-content: center; text-align: center;}
+header {background: grey; margin:0px; padding: 10px;}
+header img {max-width: 275px; margin: 10px;}
+div.portrait img {margin-left: 75px;}
+div.excerpt {padding-top: 60px; margin: 0; float: right; text-align: center;}
+div.excerpt h1 {font-size: 24px; font-weight: bold;}
+div.excerpt p {font-size: 16px; padding-left: 75px;}
+div.row div.box {background-color: rgb(154, 136, 136); margin:10px auto; padding: 10px; text-align: center; flex-wrap: wrap;}
+div.box img {width: 100px;}
+div.box p {padding: 10px;}
+.area {background-color: rgb(38, 36, 36);}
+.area h1 {text-align: center; color: azure;}
+.quote {background-color: azure; margin: 10px auto;}
